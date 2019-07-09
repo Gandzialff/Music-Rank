@@ -1,0 +1,24 @@
+.NavLink {
+        color: white;
+        font-size: 25px;
+        transition: 0.2s ease;
+}
+.NavLink::before{
+        content: "";
+        padding-left:20px;
+}
+.NavLink::after{
+    content: "";
+    padding-right: 20px;
+}
+.NavLink::hover{
+    text-decoration: none;
+    -webkit-transform: scale(1.15);
+    transform: scale(1.15);
+}
+
+.NavActive{
+    color: red;
+        font-size: 25px;
+        transition: 0.2s ease;
+}

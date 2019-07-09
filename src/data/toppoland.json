@@ -1,0 +1,103 @@
+[
+        {  
+            "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+            "artists": "Billie Eilish",
+            "name": "bad guy"
+        },
+        {
+            "album": "hot coffee",
+            "artists": "schafter",
+            "name": "hot coffee"
+        },
+        {
+            "album": "I Don't Care",
+            "artists": "Ed Sheeran, Justin Bieber",
+            "name": "I Don't Care"
+       },
+        {
+            "album": "Klubowe",
+            "artists": "Tymek, Big Scythe",
+            "name": "Język ciała"
+        },
+        {
+            "album": "Old Town Road",
+            "artists": "Lil Nas X, Billy Ray Cyrus",
+            "name": "Old Town Road - Remix"
+        },
+        {
+            "album": "Malomiasteczkowy",
+            "artists": "Dawid Podsiadło",
+            "name": "Trofea"
+       },
+        {
+            "album": "If I Can't Have You",
+            "artists": "Shawn Mendes",
+            "name": "If I Can't Have You"
+        },
+        {
+            "album": "Rainman",
+            "artists": "Tymek,Trill Pem, TEDE",
+            "name": "Rainman"
+        },
+        {
+            "album": "Klubowe",
+            "artists": "Tymek",
+            "name": "Poza kontrolą"
+        
+        },
+        {
+            "album": "Kwiat polskiej młodzieży",
+            "artists": "Bedoes, Kubi Producent, Taco Hemingway",
+            "name": "Chłopaki nie płaczą"
+       },
+        {
+            "album": "Jagodzianki",
+            "artists": "Malik Montana, Mr. Polska, Abel de Jong",
+            "name": "Jagodzianki"
+        },
+        {
+            "album": "Sucker",
+            "artists": "Jonas Brothers",
+            "name": "Sucker"
+        },
+        {
+            "album": "Surfer",
+            "artists": "Be Vis",
+            "name": "Surfer"
+        },
+        {
+            "album": "Old Town Road",
+            "artists": "Lil Nas X",
+            "name": "Old Town Road"
+        },
+        {
+            "album": "Ivy To Roses (Mixtape)",
+            "artists": "Mabel",
+            "name": "Don't Call Me Up"
+        },
+        {
+            "album": "Snacks",
+            "artists": "Jax Jones, Martin Solveig, Madison Beer, Europa",
+            "name": "All Day And Night"
+         },
+        {
+            "album": "So Am I",
+            "artists": "Ava Max",
+            "name": "So Am I"
+        },
+        {
+            "album": "Summer Days",
+            "artists": "Martin Garrix, Macklemore, Fall Out Boy",
+            "name": "Summer Days"
+         },
+        {
+            "album": "Mów",
+            "artists": "Otsochodzi",
+            "name": "Mów"
+         },
+        {
+            "album": "Piece Of Your Heart",
+            "artists": "MEDUZA, Goodboys",
+            "name": "Piece Of Your Heart"
+         }
+]
